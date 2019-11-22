@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h4>desktop layout</h4>
     <nuxt />
   </div>
 </template>
