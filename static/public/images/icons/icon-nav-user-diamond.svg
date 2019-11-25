@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon-nav-user-diamond</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C4EDFF" offset="0%"></stop>
+            <stop stop-color="#52BAE5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard" transform="translate(-453.000000, -483.000000)" stroke="url(#linearGradient-1)" stroke-width="2.97794118">
+            <g id="outline-member-icon" transform="translate(217.000000, 461.000000)">
+                <g id="icon-nav-user-Level-4" transform="translate(234.888889, 18.500000)">
+                    <path d="M35.1957204,37.1957204 C35.1957204,33.7441574 29.4782045,25.8630885 26.0921029,24.3098851 C30.5328919,20.2830616 30.9769708,13.3799355 27.0912804,8.77785153 C23.20559,4.1757675 16.5444065,3.7155591 12.1036175,7.74238262 C7.66282847,11.7692061 7.21874957,18.6723322 11.10444,23.2744162 C11.4374991,23.6195725 11.7705583,24.0222549 12.1036175,24.3098851 C8.662006,25.8630885 3,33.7441574 3,37.1957204" id="icon-nav-user-diamond"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

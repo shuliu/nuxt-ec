@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-lock-gn_</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-lock-gn_" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-31" transform="translate(5.000000, 3.000000)">
+            <path d="M6,8 L6.00001978,4.26035185 C6.00001978,2.38012388 8.04102445,2.77555756e-16 11,0 C13.9589756,0 15.99999,2.38012388 15.99999,4.26035185 L16,8" id="Rectangle-33-Copy" stroke="#B6BD00" stroke-width="2" transform="translate(11.000000, 4.000000) rotate(-360.000000) translate(-11.000000, -4.000000) "></path>
+            <path d="M3,8 L19,8 C20.6568542,8 22,9.34314575 22,11 L22,21 C22,22.6568542 20.6568542,24 19,24 L3,24 C1.34314575,24 2.02906125e-16,22.6568542 0,21 L0,11 C-2.02906125e-16,9.34314575 1.34314575,8 3,8 Z" id="Rectangle-34" stroke="#B6BD00" stroke-width="2"></path>
+            <circle id="Oval-13" fill="#B6BD00" cx="11" cy="15" r="2"></circle>
+            <path d="M11,15 L11,20" id="Line-9" stroke="#B6BD00" stroke-width="2" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

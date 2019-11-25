@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-service-gn_</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-service-gn_" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-30" transform="translate(4.000000, 3.000000)">
+            <path d="M9.4443703,23.7259872 C5.2479012,23.0417055 4,19.975887 4,18.6732869 L4,8 C4,4.01127681 7.00251953,0 12,0 C16.9974805,0 20,4.2268788 20,8.21560199 L20,16" id="Rectangle-33" stroke="#B6BD00" stroke-width="2" stroke-linecap="square" transform="translate(12.000000, 11.862994) scale(-1, 1) translate(-12.000000, -11.862994) "></path>
+            <path d="M-0.5,15.5 L-0.499988134,13.1627199 C-0.499988134,11.9875774 0.724614668,10.5 2.5,10.5 C4.27538533,10.5 5.49999398,11.9875774 5.49999398,13.1627199 L5.5,15.5" id="Rectangle-33-Copy-2" stroke="#B6BD00" stroke-width="2" stroke-linecap="round" transform="translate(2.500000, 13.000000) scale(-1, 1) rotate(90.000000) translate(-2.500000, -13.000000) "></path>
+            <path d="M18.5,15.5 L18.5000119,13.1627199 C18.5000119,11.9875774 19.7246147,10.5 21.5,10.5 C23.2753853,10.5 24.499994,11.9875774 24.499994,13.1627199 L24.5,15.5" id="Rectangle-33-Copy-3" stroke="#B6BD00" stroke-width="2" stroke-linecap="round" transform="translate(21.500000, 13.000000) rotate(90.000000) translate(-21.500000, -13.000000) "></path>
+            <circle id="Oval-11" fill="#B6BD00" cx="12" cy="24" r="2"></circle>
+        </g>
+    </g>
+</svg>

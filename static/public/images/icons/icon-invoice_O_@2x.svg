@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-invoice_O_@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="DEMO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="O0-1_訂單列表-去掉物流bar-加發票號碼" transform="translate(-27.000000, -189.000000)">
+            <g id="Group" transform="translate(27.000000, 189.000000)">
+                <rect id="Rectangle-path" x="0" y="0" width="18" height="18"></rect>
+                <g id="Group-4" transform="translate(3.000000, 3.000000)" stroke="#A6A6A6">
+                    <path d="M9.35172414,3.42857143 L2.38226601,3.42857143" id="Shape"></path>
+                    <path d="M5.36157635,8.57142857 L2.38226601,8.57142857" id="Shape"></path>
+                    <path d="M9.35172414,6 L2.38226601,6" id="Shape"></path>
+                    <path d="M5.36157635,11.7458128 L2.32906404,11.7458128 C1.15862069,11.7458128 0.200985222,10.7881773 0.200985222,9.61773399 L0.200985222,2.91428571 C0.200985222,1.74384236 1.15862069,0.786206897 2.32906404,0.786206897 L9.40492611,0.786206897 C10.5753695,0.786206897 11.5330049,1.74384236 11.5330049,2.91428571 L11.5330049,8.81970443 C11.5330049,9.35172414 9.2453202,11.7458128 8.60689655,11.7458128 L7.96847291,11.7458128 L7.96847291,9.99014778" id="Shape" stroke-width="1.2"></path>
+                    <path d="M7.96847291,10.1497537 C7.96847291,9.08571429 8.81970443,8.23448276 9.88374384,8.23448276 L11.2669951,8.23448276" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

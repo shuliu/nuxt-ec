@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-mail-gn_</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-mail-gn_" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-31" transform="translate(3.000000, 6.000000)" stroke="#B6BD00" stroke-width="2">
+            <path d="M3,0 L23,0 C24.6568542,-3.04359188e-16 26,1.34314575 26,3 L26,17 C26,18.6568542 24.6568542,20 23,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-34"></path>
+            <path d="M1,2.5 L10.8890307,10.1914505 C11.94997,11.0166236 13.43027,11.0354494 14.5118512,10.237524 L25,2.5" id="Path-18" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+        <path d="M13,17 L5,25" id="Path-19" stroke="#B6BD00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M27,17 L19,25" id="Path-19-Copy" stroke="#B6BD00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(23.000000, 21.000000) scale(-1, 1) translate(-23.000000, -21.000000) "></path>
+    </g>
+</svg>
